@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Hardware Repair",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae sit nisi totam! Sit quam earum odio corrupti, neque provident quasi.",
+    "image": "http://techguystaging.com/files/computer-icon.png"
+  },
+  {
+    "id": 2,
+    "name": "Virus Removal",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae sit nisi totam! Sit quam earum odio corrupti, neque provident quasi.",
+    "image": "http://techguystaging.com/files/computer-icon.png"
+  },
+  {
+    "id": 3,
+    "name": "System Tuneup",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae sit nisi totam! Sit quam earum odio corrupti, neque provident quasi.",
+    "image": "http://techguystaging.com/files/computer-icon.png"
+  }
+]

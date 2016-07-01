@@ -1,0 +1,16 @@
+<!-- Example row of columns -->
+<div class="row service">
+  <div class="col-lg-2">
+    <h2>Services</h2>
+  </div>
+</div>
+<div class="row service" ng-repeat="service in services">
+  <div class="col-md-2">
+    <img class="service-img" ng-src="{{ service.image }}" alt="">
+  </div>
+  <div class="col-md-10">
+    <h2>{{ service.name }}</h2>
+    <p>{{ service.description }}</p>
+    <p><a class="btn btn-lg btn-success" href="#" role="button">Contact us</a></p>
+  </div>
+</div>

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "building": "111, Building",
+    "street": "Somewhere Street",
+    "state": "OurState"
+  },
+  {
+    "id": 2,
+    "building": "222, Building",
+    "street": "Nowhere Street",
+    "state": "TheirState"
+  },
+  {
+    "id": 3,
+    "building": "333, Building",
+    "street": "Everywhere Street",
+    "state": "MyState"
+  }
+]

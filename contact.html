@@ -1,0 +1,15 @@
+<!-- Example row of columns -->
+<div class="row">
+  <div class="col-lg-12">
+    <h2>Contact Us</h2>
+    <p>Please email support at support@computersupport.fake</p>
+    <h3>Address</h3>
+  </div>
+  <div class="col-md-3" ng-repeat="location in locations">
+    <ul class="location">
+      <li>{{ location.building }}</li>
+      <li>{{ location.street }}</li>
+      <li>{{ location.state }}</li>
+    </ul>
+  </div>
+</div>
